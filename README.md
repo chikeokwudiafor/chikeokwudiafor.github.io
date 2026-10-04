@@ -11,9 +11,9 @@ Personal portfolio site for **Chike Okwudiafor** — Data Analyst & Analytics En
 Built with plain HTML/CSS — no frameworks, no build step. Deployed via GitHub Pages.
 
 **Highlights:**
-- Predictive GTM dashboards (Bullseye) tied to a $200M revenue initiative
-- GCP → Snowflake cloud migration with 35% query performance improvement
-- $4.5M revenue uplift from outcome-based pricing analysis
+- Helped turn Bullseye, a prototype sales play dashboard, into an enterprise platform that generated $50M+ in incremental revenue in its first year
+- Part of the team that moved 13 years of data from BigQuery to Snowflake, improving query performance 35%
+- Supported the financial modeling behind a $4.5M Q1 revenue lift from the company's first price increase in 7 years
 - 6 production dbt models for consumption SKU tracking
 - BI pipeline rebuild: data quality from 40% → 88%
 
